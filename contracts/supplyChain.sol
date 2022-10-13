@@ -1,6 +1,6 @@
 pragma solidity >=0.4.21 <0.6.0;
 
-contract supplyChain {
+contract SupplyChain {
     uint32 public product_id = 0; // Product ID
     uint32 public participant_id = 0; // Participant ID
     uint32 public owner_id = 0; // Ownership ID

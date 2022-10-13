@@ -445,9 +445,9 @@
 	},
 	"sources": {
 		"contracts/supplyChain.sol": {
-			"keccak256": "0x274839c21153d6bd6e30876fa4dc4d3b8b05696f5a3090a26abf8ff1572ed894",
+			"keccak256": "0x00027c8405e9b094d4d1e1773db3ef604134c4034ed02d1ca9baa60e3c80394e",
 			"urls": [
-				"bzzr://0bbfedf8ed207b5de895401d10700890b72496219b760e07d18561b09872378c"
+				"bzzr://51d8d7ae639bcc4b88b0366158181820781f6e00315070ba473dde5ad2c3ffec"
 			]
 		}
 	},
